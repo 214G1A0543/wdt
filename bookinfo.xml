@@ -1,0 +1,17 @@
+<?xmlversion ="1.0"?>
+<books>
+<book1>
+<Bookname>Wings of fire</Bookname>
+<author>Abdul kalam</author>
+<isbn>4567</isbn>
+<noofpages>2345</noofpages>
+<price>123</price>
+</book1>
+<book2>
+<Bookname>Managerial economics and finincial economics</Bookname>
+<author>Arshya khan</author>
+<isbn>4534</isbn>
+<noofpages>235</noofpages>
+<price>193</price>
+</book2>
+</books>
